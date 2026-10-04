@@ -1,4 +1,3 @@
-```markdown
 # 🎯 Resume & Candidate Screening System
 
 > **Future Interns – Machine Learning Internship | Task 3**  
@@ -176,8 +175,6 @@ Resume-Screening-System/
 │       └── Job Descriptions Dataset
 │
 ├── src/
-│   ├── __init__.py
-│   │   └── Package Initializer
 │   │
 │   ├── preprocess.py
 │   │   └── Text cleaning functions
@@ -191,9 +188,6 @@ Resume-Screening-System/
 ├── notebooks/
 │   └── resume_screening_demo.ipynb
 │       └── Interactive Notebook Demo
-│
-├── .gitignore
-│   └── Git ignore rules
 │
 ├── main.py
 │   └── Main execution script
