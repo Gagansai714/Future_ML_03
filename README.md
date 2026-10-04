@@ -1,5 +1,3 @@
-Absolutely, Monarch. I’ve cleaned the formatting, fixed the broken Markdown/HTML artifacts, corrected the architecture diagram, and converted the entire content into a **GitHub-ready `README.md`**.
-
 ```markdown
 # 🎯 Resume & Candidate Screening System
 
